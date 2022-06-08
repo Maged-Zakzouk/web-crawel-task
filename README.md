@@ -10,7 +10,7 @@ The project has two APIs:
     * GET for getting crawelled website
 
 
-* **Buit by the following technologies:**
+Buit by the following technologies:
 ------------------------------------------
     * Java 11
     * Spring boot
